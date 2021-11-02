@@ -1,10 +1,10 @@
-# PlantCV Tutorial Template
+# PlantCV Photosynthesis Tutorials
 
-A template for new PlantCV tutorial repositories.
+An introduction to analyzing PSII data with PlantCV.
 
-# Tutorial Title
+# Photosynthesis Workflow
 
-Description of tutorial.
+Read in image data taken with a CropReporter system and analyze for NPQ, YII, and other photosynthetic traits. 
 
 Create a Binder launch button:
 
@@ -18,7 +18,7 @@ Create a Binder launch button:
 
 ## Tutorial tags/keywords
 
-tag1, tag2, ...
+photosynthesis, PSII, CropReporter
 
 ## Citations
 
